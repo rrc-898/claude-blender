@@ -1,0 +1,10 @@
+# secretos y estado de la sesión
+.token
+.port
+# material pesado / de terceros
+*.blend
+*.blend1
+backup/
+hdri/
+shots/
+__pycache__/
